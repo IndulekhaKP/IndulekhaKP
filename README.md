@@ -7,17 +7,16 @@ My research interests include vehicular networks, NR-V2X, multi-agent reinforcem
 ## 🔭 Currently Working On
 
 - Resource allocation and scheduling for NR-V2X networks
+- Resource allocation and scheduling for ISAC based systems
 - Integrated sensing, communication, and computation in vehicular systems
-- Multi-agent reinforcement learning for distributed wireless network control
-- Machine learning projects for classification, prediction, and decision support
+- Reinforcement Learning for Scheduling and network optimization
 
 ## 🌱 Currently Learning
 
 - Advanced machine learning and deep learning
 - Reinforcement learning and multi-agent reinforcement learning for wireless networks
 - AI-RAN and intelligent network optimization
-- AI agents and tool-based workflows
-- Scalable ML project development and deployment
+- 5G Technologies, Architecture and Protocols
 
 ## 💬 Ask Me About
 
@@ -27,7 +26,7 @@ My research interests include vehicular networks, NR-V2X, multi-agent reinforcem
 - Wireless Networks
 - Reinforcement Learning
 - ISAC/ISCC
-- Academic research and technical writing
+- 5G Network Fundamentals
 
 ## 🛠️ Tech Stack
 
