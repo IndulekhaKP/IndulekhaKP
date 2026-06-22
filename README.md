@@ -42,6 +42,5 @@ My research interests include vehicular networks, NR-V2X, multi-agent reinforcem
 
 ## 📫 Connect With Me
 
-- GitHub: [IndulekhaKP](https://github.com/IndulekhaKP)
 - LinkedIn: [Indulekha K. P.](https://www.linkedin.com/in/indulekha-k-p-355428337)
-- Affiliation: IIT Madras
+
